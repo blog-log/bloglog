@@ -1,3 +1,18 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/blog-log/frontend
+[submodule "webhook"]
+	path = webhook
+	url = https://github.com/blog-log/webhook
+[submodule "searcher"]
+	path = searcher
+	url = https://github.com/blog-log/searcher
+[submodule "processor"]
+	path = processor
+	url = https://github.com/blog-log/processor
+[submodule "extractor"]
+	path = extractor
+	url = https://github.com/blog-log/extractor
+[submodule "datastore"]
+	path = datastore
+	url = https://github.com/blog-log/datastore
